@@ -22,8 +22,8 @@ dsa-journal/
 ├── requirements.txt
 └── README.md
 
----
 ```
+---
 
 ## Solutions
 
