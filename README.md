@@ -7,7 +7,7 @@ to reflect SDET-oriented thinking.
 ---
 
 ## Structure
-
+```
 dsa-journal/
 ├── solutions/
 │   ├── arrays/
@@ -23,6 +23,7 @@ dsa-journal/
 └── README.md
 
 ---
+```
 
 ## Solutions
 
