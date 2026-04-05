@@ -1,7 +1,7 @@
 # DSA Journal
 
 A personal journal of Data Structures and Algorithms solutions written in Python.
-Each solution includes time/space complexity analysis and pytest test cases — structured
+Each solution includes time/space complexity analysis and pytest test cases - structured
 to reflect SDET-oriented thinking.
 
 ---
@@ -43,7 +43,7 @@ dsa-journal/
 
 | # | Problem | Solution | Tests | Difficulty | Algorithm | Time | Space |
 |---|---------|----------|-------|------------|-----------|------|-------|
-| 1 | Reverse Linked List | [reverse_linked_list.py](solutions/linked_lists/reverse_linked_list.py) | — | Easy | Iterative Reversal | O(n) | O(1) |
+| 1 | Reverse Linked List | [reverse_linked_list.py](solutions/linked_lists/reverse_linked_list.py) | - | Easy | Iterative Reversal | O(n) | O(1) |
 
 ### Binary Search
 
