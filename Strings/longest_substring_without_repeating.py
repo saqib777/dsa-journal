@@ -27,3 +27,5 @@ if __name__ == "__main__":
     print(length_of_longest_substring("bbbbb"))     # 1
     print(length_of_longest_substring("pwwkew"))    # 3
     print(length_of_longest_substring(""))          # 0
+
+# Sliding window with hash set
