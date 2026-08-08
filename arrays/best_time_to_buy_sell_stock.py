@@ -1,6 +1,9 @@
 # Algorithm: Greedy (Single Pass)
 # Time Complexity: O(n) - one pass through prices
-# Space Complexity: O(1) - only two variables tracked
+# Space Complexity: O(1) - only two
+ variables tracked
+
+# best time to buy and sell stocks
 
 def max_profit(prices: list[int]) -> int:
     """
